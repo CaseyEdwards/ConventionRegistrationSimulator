@@ -1,0 +1,6 @@
+C:\Users\Cryte Lynn\Desktop\School\CSCI2210\Projects\ConventionRegistrationSimulator\ConventionRegistrationSimulator\bin\Debug\ConventionRegistrationSimulator.exe.config
+C:\Users\Cryte Lynn\Desktop\School\CSCI2210\Projects\ConventionRegistrationSimulator\ConventionRegistrationSimulator\bin\Debug\ConventionRegistrationSimulator.exe
+C:\Users\Cryte Lynn\Desktop\School\CSCI2210\Projects\ConventionRegistrationSimulator\ConventionRegistrationSimulator\bin\Debug\ConventionRegistrationSimulator.pdb
+C:\Users\Cryte Lynn\Desktop\School\CSCI2210\Projects\ConventionRegistrationSimulator\ConventionRegistrationSimulator\obj\Debug\ConventionRegistrationSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Cryte Lynn\Desktop\School\CSCI2210\Projects\ConventionRegistrationSimulator\ConventionRegistrationSimulator\obj\Debug\ConventionRegistrationSimulator.exe
+C:\Users\Cryte Lynn\Desktop\School\CSCI2210\Projects\ConventionRegistrationSimulator\ConventionRegistrationSimulator\obj\Debug\ConventionRegistrationSimulator.pdb
